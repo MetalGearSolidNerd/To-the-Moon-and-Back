@@ -1,0 +1,29 @@
+{
+  "uuid": "c2e05790-2f93-4efe-9bba-84934fffc13c",
+  "shortName": "MoonLove",
+  "longName": "To the Moon and Back",
+  "companyName": "APS",
+  "versionLabel": "1.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+		"type": "font",
+		"name": "FONT_MAKHINA_32",
+		"file": "makhina.ttf"
+	  },
+	  {
+        "type":"png",
+        "name":"IMAGE_BACKGROUND",
+        "file":"tomoon.png"
+      }
+    ]
+  }
+}
